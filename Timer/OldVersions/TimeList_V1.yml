@@ -1,0 +1,16 @@
+# List of default timer times
+
+time1: "1 minute" : 10000
+time2: "3 minutes" : 30000
+time3: "5 minutes" : 50000
+time4: "10 minutes" : 100000
+time5: "15 minutes" : 150000
+time6: "20 minutes" : 200000
+time7: "25 minutes" : 250000
+time8: "30 minutes" : 300000
+time9: "40 minutes" : 400000
+time10: "45 minutes" : 450000
+time11: "1 hour (60 minutes)" : 600000
+time12: "1 hour 30 minutes (90 minutes)" : 900000
+
+# Timeouts should never be 2 hours or longer
